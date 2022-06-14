@@ -11,4 +11,6 @@ This repository is heavily inspired by NangiDev's repository here https://github
 
 ![./gifs/ytrogelike.gif](./gifs/ytroguelike.gif?raw=true "Roguelike")
 
-[My roguelike](./carts/ytroguelike.p8) heavily based on [Lazy Devs' roguelike tutorial](https://youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS). I've tweaked things here and there and added my own music so far.
+[My roguelike](./carts/ytroguelike.p8) heavily based on [Lazy Devs' roguelike tutorial](https://youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS). So far I've tweaked things here and there and added my own music.
+
+You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-app/ytroguelike.html).
