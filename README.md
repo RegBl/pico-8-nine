@@ -14,3 +14,11 @@ This repository is heavily inspired by NangiDev's repository here https://github
 [My roguelike](./carts/ytroguelike.p8) heavily based on [Lazy Devs' roguelike tutorial](https://youtube.com/playlist?list=PLea8cjCua_P3LL7J1Q9b6PJua0A-96uUS). So far I've tweaked things here and there and added my own music.
 
 You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-app/ytroguelike.html).
+
+## Dot Roguelike
+
+![./gifs/dotroguelike.gif](./gifs/dotroguelike_0.gif?raw=true "Dot Roguelike")
+
+[Another roguelike of mine](./carts/dotroguelike.p8), if I can even call it that at this stage. Very little right now. Just proof of concept.
+
+You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-app/dotroguelike.html).
