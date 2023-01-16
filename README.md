@@ -22,3 +22,11 @@ You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-ap
 [Another roguelike of mine](./carts/dotroguelike.p8), if I can even call it that at this stage. Very little right now. Just proof of concept.
 
 You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-app/dotroguelike.html).
+
+## Ship and Stars
+
+![./gifs/shipstars.gif](./gifs/shipstars.gif?raw=true "Ship and Stars")
+
+[An evening's experiment](./carts/shipstars.p8) with procedurally generated spaceship flight.
+
+You can play it in the browser [here](https://regbl.github.io/pico-8-nine/web-app/shipstars.html).
