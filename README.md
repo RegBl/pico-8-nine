@@ -11,7 +11,7 @@ This repository is heavily inspired by [NangiDev's repository](https://github.co
 
 Work in progress implementing the standard cribbage game in PICO-8.
 
-Worked on it for about half a day so far and I'm pretty happy. Playing with an external editor (VS Code) and multiple files, so I can't link a single `.p8` file. Check the repo here if you'd like.
+Worked on it for about half a day so far and I'm pretty happy. Playing with an external editor (VS Code) and multiple files, so I can't link a single `.p8` file. Check the repo [here](https://github.com/RegBl/pico-8-nine/tree/main/carts/cribbage) if you'd like.
 
 Play what I've got so far in the browser [here](https://regbl.github.io/pico-8-nine/web-app/cribbage.html)
 
