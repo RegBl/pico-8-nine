@@ -16,20 +16,23 @@
     * [x] Card backs?
     * [ ] See opponent's hand?
     * [ ] Card drop shadow?
-    * [ ] Display face cards by letter, not number
+    * [x] Display face cards by letter, not number
 * Refactor decks
     * [ ] Crib
     * [ ] Player Hand
     * [ ] Tableau Hand
     * [ ] Tableau Deck?
 * Gamestates
+    * [x] Title
     * [ ] Deal and discard to crib
         * [ ] Deal cards to players
         * [ ] Players discard to crib
         * [ ] Deal starter
-    * [ ] Main play
+    * [x] Main play
     * [ ] Scoring
         * [ ] Manual vs. automatic
+* [x] AI play card after player
+    * [x] Random
 
 ## Done
 

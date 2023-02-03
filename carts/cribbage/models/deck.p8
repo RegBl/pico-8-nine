@@ -17,6 +17,14 @@ function Deck.get_standard_deck()
     return deck
 end
 
+function Deck.setup_decks()
+    tableau_deck = Deck:new({body=Deck.get_standard_deck()})
+	player_one_hand = Deck:new({body=tableau_deck:draw_x_cards(6)})
+	player_two_hand = Deck:new({body=tableau_deck:draw_x_cards(6)})
+	crib = Deck:new()
+	tableau_hand = Deck:new({body=Card:new{tableau_deck:draw_card()},is_tableau_hand=true})
+end
+
 function Deck:draw(x,y)
     if self.is_tableau_hand and #self.body > 3 then
         Card.draw_facedown(x,y)
