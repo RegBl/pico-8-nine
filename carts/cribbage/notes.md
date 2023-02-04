@@ -11,8 +11,8 @@
 * Graphics
     * [ ] Draw stock deck
     * [ ] Rounded card corners
-    * [ ] Graphical board
-        * [ ] Draw brown background rectangle
+    * [x] Graphical board
+        * [x] Draw brown background rectangle
     * [x] Card backs?
     * [ ] See opponent's hand?
     * [ ] Card drop shadow?

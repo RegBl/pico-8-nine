@@ -18,6 +18,8 @@ function _init()
 		draw_game,
 	}
 
+	card_sounds={0,1}
+
 	srand(stat(95))
 	Deck.setup_decks()
 	Player.setup_players()

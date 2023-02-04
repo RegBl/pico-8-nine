@@ -26,10 +26,10 @@ function Deck.setup_decks()
 end
 
 function Deck:draw(x,y)
-    if self.is_tableau_hand and #self.body > 3 then
+    if self.is_tableau_hand and #self.body > 4 then
         Card.draw_facedown(x,y)
         x = x + 8
-        for i=#self.body-2,#self.body do
+        for i=#self.body-3,#self.body do
             self.body[i]:draw(x,y)
             x = x + 14
         end
