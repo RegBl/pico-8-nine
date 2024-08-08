@@ -13,9 +13,11 @@ This repository is heavily inspired by [NangiDev's repository](https://github.co
 
 Work in progress implementing the standard cribbage game in PICO-8.
 
-Check the repo [here](https://github.com/RegBl/pico-8-nine/tree/main/carts/cribbage) if you'd like.
+~~Check the repo [here](https://github.com/RegBl/pico-8-nine/tree/main/carts/cribbage) if you'd like.~~
 
-And play what I've got so far in the browser [here](https://regbl.github.io/pico-8-nine/web-app/cribbage.html)
+~~And play what I've got so far in the browser [here](https://regbl.github.io/pico-8-nine/web-app/cribbage.html)~~
+
+I split the project out to a different repo. Check it out [here](https://github.com/RegBl/CribbageP8)
 
 ## Ship and Stars
 
